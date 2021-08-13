@@ -1,0 +1,17 @@
+"use strict";
+exports.__esModule = true;
+exports.LEGAL_CONSULTATION_FILE = exports.FOOTER_FILE = exports.STILL_HAVE_A_QUESTION_FILE = exports.BLOG_POST_BY_CATEGORIES_FILE = exports.BLOG_CATEGORIES_FILE = exports.Privacy_File = exports.Terms_File = exports.BLOGS_FILE = exports.Product_Catagory_List = exports.Home_File = exports.MENUS_FILE = exports.PRODUCTS_FILE = exports.CATEGORIES_FILE = exports.JSON_PATH = void 0;
+exports.JSON_PATH = './json-data';
+exports.CATEGORIES_FILE = exports.JSON_PATH + "/categories.json";
+exports.PRODUCTS_FILE = exports.JSON_PATH + "/products.json";
+exports.MENUS_FILE = exports.JSON_PATH + "/menus.json";
+exports.Home_File = exports.JSON_PATH + "/home.json";
+exports.Product_Catagory_List = exports.JSON_PATH + "/productcatagorylist.json";
+exports.BLOGS_FILE = exports.JSON_PATH + "/blogs.json";
+exports.Terms_File = exports.JSON_PATH + "/termsandcondition.json";
+exports.Privacy_File = exports.JSON_PATH + "/privacy.json";
+exports.BLOG_CATEGORIES_FILE = exports.JSON_PATH + "/blogCategories.json";
+exports.BLOG_POST_BY_CATEGORIES_FILE = exports.JSON_PATH + "/blogs";
+exports.STILL_HAVE_A_QUESTION_FILE = exports.JSON_PATH + "/still_have_a_question.json";
+exports.FOOTER_FILE = exports.JSON_PATH + "/footer.json";
+exports.LEGAL_CONSULTATION_FILE = exports.JSON_PATH + "/legal-consultation.json";
